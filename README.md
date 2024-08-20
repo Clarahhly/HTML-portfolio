@@ -1,2 +1,2 @@
 # HTML-portfolio
-Learning HTML
+Current personal project: Learning HTML
